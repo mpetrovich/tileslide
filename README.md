@@ -1,6 +1,6 @@
 # Tileslide
 
-A simple sliding puzzle game. Play it online at [tileslide.com](https://tileslide.com)
+A simple sliding puzzle game. Play it online at [tileslide.surge.sh](https://tileslide.surge.sh)
 
 <img src="public/screenshot.png" width="300">
 
